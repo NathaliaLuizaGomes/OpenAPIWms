@@ -1,0 +1,21 @@
+﻿@{
+    Layout = null;
+}
+
+<div class="row">
+    <div class="col-xs-12">
+        <form class="form-horizontal">
+            @Html.Hidden("CodCoin", (int?)ViewBag.CodCoin)
+            <div class="formMotivoBatida-group">
+                <label for="TradeNameId" class="control-label">1  @Html.Label("TradeName", (string)ViewBag.TradeName)</label>
+                <span style="color:blue">=</span>
+                @Html.Label("RateId", (string)ViewBag.Rate) <span style="color:blue"> </span> @Html.Label("ToName", (string)ViewBag.ToName)
+                <br />
+                <span style="color:blue">Time Request:</span> @Html.Label("TimeRequest", DateTime.Now.ToString())
+                <br />
+                <span>Percent Change Last Hour :</span>@Html.Label("PercentChange1h", (string)ViewBag.PercentChange1h)<span>%</span>
+
+            </div>
+        </form>
+    </div>
+</div>

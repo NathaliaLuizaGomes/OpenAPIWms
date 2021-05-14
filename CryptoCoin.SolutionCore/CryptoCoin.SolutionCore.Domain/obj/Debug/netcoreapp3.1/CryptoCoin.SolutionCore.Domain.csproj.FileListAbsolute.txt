@@ -1,0 +1,9 @@
+C:\Users\natha\source\Core\CryptoCoin.SolutionCore\CryptoCoin.SolutionCore.Domain\bin\Debug\netcoreapp3.1\CryptoCoin.SolutionCore.Domain.deps.json
+C:\Users\natha\source\Core\CryptoCoin.SolutionCore\CryptoCoin.SolutionCore.Domain\bin\Debug\netcoreapp3.1\CryptoCoin.SolutionCore.Domain.dll
+C:\Users\natha\source\Core\CryptoCoin.SolutionCore\CryptoCoin.SolutionCore.Domain\bin\Debug\netcoreapp3.1\CryptoCoin.SolutionCore.Domain.pdb
+C:\Users\natha\source\Core\CryptoCoin.SolutionCore\CryptoCoin.SolutionCore.Domain\obj\Debug\netcoreapp3.1\CryptoCoin.SolutionCore.Domain.AssemblyInfoInputs.cache
+C:\Users\natha\source\Core\CryptoCoin.SolutionCore\CryptoCoin.SolutionCore.Domain\obj\Debug\netcoreapp3.1\CryptoCoin.SolutionCore.Domain.AssemblyInfo.cs
+C:\Users\natha\source\Core\CryptoCoin.SolutionCore\CryptoCoin.SolutionCore.Domain\obj\Debug\netcoreapp3.1\CryptoCoin.SolutionCore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\Core\CryptoCoin.SolutionCore\CryptoCoin.SolutionCore.Domain\obj\Debug\netcoreapp3.1\CryptoCoin.SolutionCore.Domain.dll
+C:\Users\natha\source\Core\CryptoCoin.SolutionCore\CryptoCoin.SolutionCore.Domain\obj\Debug\netcoreapp3.1\CryptoCoin.SolutionCore.Domain.pdb
+C:\Users\natha\source\Core\CryptoCoin.SolutionCore\CryptoCoin.SolutionCore.Domain\obj\Debug\netcoreapp3.1\CryptoCoin.SolutionCore.Domain.csprojAssemblyReference.cache

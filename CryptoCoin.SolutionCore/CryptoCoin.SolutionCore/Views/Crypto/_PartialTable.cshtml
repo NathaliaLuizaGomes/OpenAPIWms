@@ -1,0 +1,46 @@
+﻿@model List<CryptoAPIResponseViewModelForMarkets>
+@using CryptoCoin.SolutionCore.ViewModels;
+
+<table id="tableMark" class="table jambo_table table table-bordered" style="background-color:white;">
+
+    <thead>
+        <tr class="headings">
+            <th scope="col" style="font-size:small">
+                @Html.DisplayName("Exchanges/Taxas")
+            </th>
+            <th scope="col" style="font-size:small">
+                @Html.DisplayName("Price")
+            </th>
+            <th scope="col" style="font-size:small">
+                @Html.DisplayName("Price USD")
+            </th>
+
+        </tr>
+    </thead>
+
+    <tbody>
+        @if (Model != null && Model.Count > 0)
+        {
+            foreach (var registro in Model)
+            {
+
+                <tr style="font-size:small;">
+                    <td>
+                        @Html.Raw(registro.name)
+                    </td>
+                    <td>
+                        @Html.Raw(registro.price + " (" + registro.quote + ")")
+                    </td>
+                    <td>
+                        @Html.Raw(registro.price_usd)
+                    </td>
+
+                </tr>
+
+            }
+        }
+
+
+    </tbody>
+
+</table>
