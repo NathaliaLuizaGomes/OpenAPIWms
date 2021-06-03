@@ -1,0 +1,15 @@
+C:\Users\natha\source\Core\WmsSystem\WmsSystem.Repository\bin\Debug\netcoreapp3.1\WmsSystem.Repository.deps.json
+C:\Users\natha\source\Core\WmsSystem\WmsSystem.Repository\bin\Debug\netcoreapp3.1\WmsSystem.Repository.dll
+C:\Users\natha\source\Core\WmsSystem\WmsSystem.Repository\obj\Debug\netcoreapp3.1\WmsSystem.Repository.csprojAssemblyReference.cache
+C:\Users\natha\source\Core\WmsSystem\WmsSystem.Repository\obj\Debug\netcoreapp3.1\WmsSystem.Repository.AssemblyInfoInputs.cache
+C:\Users\natha\source\Core\WmsSystem\WmsSystem.Repository\obj\Debug\netcoreapp3.1\WmsSystem.Repository.AssemblyInfo.cs
+C:\Users\natha\source\Core\WmsSystem\WmsSystem.Repository\bin\Debug\netcoreapp3.1\WmsSystem.Repository.pdb
+C:\Users\natha\source\Core\WmsSystem\WmsSystem.Repository\obj\Debug\netcoreapp3.1\WmsSystem.Repository.dll
+C:\Users\natha\source\Core\WmsSystem\WmsSystem.Repository\obj\Debug\netcoreapp3.1\WmsSystem.Repository.pdb
+C:\Users\natha\source\Core\WmsSystem\WmsSystem.Repository\bin\Debug\netcoreapp3.1\WmsSystem.Domain.dll
+C:\Users\natha\source\Core\WmsSystem\WmsSystem.Repository\bin\Debug\netcoreapp3.1\WmsSystem.Domain.pdb
+C:\Users\natha\source\Core\WmsSystem\WmsSystem.Repository\obj\Debug\netcoreapp3.1\WmsSystem.Repository.csproj.CopyComplete
+C:\Users\natha\source\Core\WmsSystem\WmsSystem.Repository\bin\Debug\netcoreapp3.1\WmsSystem.Repository.runtimeconfig.json
+C:\Users\natha\source\Core\WmsSystem\WmsSystem.Repository\bin\Debug\netcoreapp3.1\WmsSystem.Repository.runtimeconfig.dev.json
+C:\Users\natha\source\Core\WmsSystem\WmsSystem.Repository\obj\Debug\netcoreapp3.1\WmsSystem.Repository.genruntimeconfig.cache
+C:\Users\natha\source\Core\WmsSystem\WmsSystem.Repository\obj\Debug\netcoreapp3.1\WmsSystem.Repository.csproj.CoreCompileInputs.cache
